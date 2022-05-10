@@ -1,7 +1,7 @@
 ### eip: 5???
 ### title: Executable Script extention for Token Contracts
 ### description: Add a scriptURI to point to point to an executable script associated with the functionality of the token.
-### author: James (@JamesSmartCell), Weiwu (@weiwu-zhang), Tore Frederiksen
+### author: James (@JamesSmartCell), Weiwu (@weiwu-zhang), Tore Frederiksen (@jot2re)
 ### discussions-to:
 ### status: Draft
 ### type: Standards Track
